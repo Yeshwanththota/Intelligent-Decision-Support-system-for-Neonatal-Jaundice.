@@ -1,4 +1,4 @@
-# NJN
+# Intelligent Decision Support system for Neonatal Jaundice.
 # Research: Intelligent Decision Support system for Neonatal Jaundice.
 
 # Dissertation : Neonatal Jaundice Classification using CNN and Image processing.
