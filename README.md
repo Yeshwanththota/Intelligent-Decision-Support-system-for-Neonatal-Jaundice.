@@ -1,7 +1,7 @@
 # NJN
 # Research: Intelligent Decision Support system for Neonatal Jaundice.
 
-# Neonatal Jaundice Classification using CNN and Image processing.
+# Dissertation : Neonatal Jaundice Classification using CNN and Image processing.
 
 # Abstract: 
 Imagine a world where healthcare professionals possess a powerful tool in their quest to safeguard the health of newborns. A world where cutting-edge technology seamlessly integrates with clinical expertise to provide accurate and timely insights. In the realm of neonatal care, the analysis of skin colour plays a crucial role in detecting potential health conditions. However, deciphering the subtle variations and
