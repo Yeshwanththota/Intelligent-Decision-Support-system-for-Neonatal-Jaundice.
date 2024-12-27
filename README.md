@@ -1,7 +1,7 @@
 
 # Research: Intelligent Decision Support system for Neonatal Jaundice.
 
-# Dissertation : Neonatal Jaundice Classification using CNN and Image processing.
+# Dissertation : Neonatal Jaundice Classification using CNN & Image processing.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
